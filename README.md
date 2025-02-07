@@ -17,7 +17,7 @@ This project visualizes **weekly excess deaths, COVID deaths vs. non-COVID death
 
 ## 📥 Installation
 ```bash
-git clone https://github.com/your-username/covid19-visualization.git
+git clone https://github.com/data-joy1/covid19-visualization.git
 cd covid19-visualization
 pip install -r requirements.txt
 jupyter notebook
